@@ -5,7 +5,7 @@ Let's Practice Forking
 - Choose one of the exercises in the Git section of our Notion.
 - ^ Complete the exercise, this time pushing to github as you commit changes.
 - Push your repository up to GitHub.
-
+---
 - Fork and Clone this repository.  
 - Add and commit some changes and submit a PR.
 - Change to a different branch and add some files and merge into master when you are done.
